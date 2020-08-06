@@ -1,0 +1,2 @@
+# mp-keep-createdatetimeentry
+Create an entry in KeePass for the current DateTime. Year, Month, and day are groups. Time is an entry.
